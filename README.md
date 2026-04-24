@@ -1,15 +1,18 @@
 # MDP REPRESENTATION
 
 ## AIM:
-Write your aim here
+To model the Snake game as a Reinforcement Learning problem using a deterministic Markov Decision Process (MDP).
 
 ## PROBLEM STATEMENT:
 
 ### Problem Description
-Write your answer here
+The objective is to design an agent that controls a snake in a grid environment to collect food while avoiding collisions with walls or its own body. The agent learns by interacting with the environment and receiving rewards.
 
 ### State Space
-Write your answer here
+Snake head position (x, y)
+Snake body positions
+Food position
+Current direction of movement
 
 ### Sample State
 Write your answer here
