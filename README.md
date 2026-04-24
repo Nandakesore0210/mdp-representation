@@ -8,8 +8,8 @@ To model the Snake game as a Reinforcement Learning problem using a deterministi
 ### Problem Description
 The objective is to design an agent that controls a snake in a grid environment to collect food while avoiding collisions with walls or its own body. The agent learns by interacting with the environment and receiving rewards.
 
-### State Space
-Snake head position (x, y)
+### State Space 
+/br Snake head position (x, y) /br
 Snake body positions
 Food position
 Current direction of movement
