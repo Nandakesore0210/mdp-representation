@@ -27,7 +27,8 @@ Move Left <br>
 Move Right 
 
 ### Sample Action
-Write your answer here
+From state (5,5) with food at (8,5): <br>
+Move Right
 
 ### Reward Function
 Write your answer here
