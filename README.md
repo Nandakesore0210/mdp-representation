@@ -1,5 +1,8 @@
 # MDP REPRESENTATION
 
+## Name: Nandakesore J
+## Reg No: 212223240103
+
 ## AIM:
 To model the Snake game as a Reinforcement Learning problem using a deterministic Markov Decision Process (MDP).
 
